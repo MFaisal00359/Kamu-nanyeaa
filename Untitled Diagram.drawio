@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T14:52:11.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DPWVtDHHNDTx9epgSCh8" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T14:53:09.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6x4MJJxJMdiV0U58qgqk" version="21.0.6" type="github">
   <diagram name="Page-1" id="Ky6xbdd2wmTj1Mj3_75G">
-    <mxGraphModel dx="1760" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,15 +44,31 @@
           <mxGeometry x="100" y="-620" width="672.12" height="570" as="geometry" />
         </mxCell>
         <mxCell id="EvYMBOC-tSzaEjGYlC9p-67" value="Orderline" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="543.75" y="510" width="160" height="120" as="geometry">
+          <mxGeometry x="660" y="480" width="160" height="120" as="geometry">
             <mxRectangle x="265" y="700" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EvYMBOC-tSzaEjGYlC9p-68" value="&lt;font color=&quot;#ff9214&quot;&gt;(primary_key)&amp;nbsp;&lt;/font&gt;no-unik&lt;br&gt;+ alamat-pengiriman&lt;br&gt;+ jumlah-pesanan" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="EvYMBOC-tSzaEjGYlC9p-67">
+        <mxCell id="EvYMBOC-tSzaEjGYlC9p-68" value="&lt;font color=&quot;#ff9214&quot;&gt;(Weak-key)&amp;nbsp;&lt;/font&gt;no-unik&lt;br&gt;+ alamat-pengiriman&lt;br&gt;+ jumlah-pesanan" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="EvYMBOC-tSzaEjGYlC9p-67">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EvYMBOC-tSzaEjGYlC9p-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="EvYMBOC-tSzaEjGYlC9p-64" target="EvYMBOC-tSzaEjGYlC9p-67">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvYMBOC-tSzaEjGYlC9p-70" value="Barang" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="160" height="120" as="geometry">
+            <mxRectangle x="265" y="700" width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvYMBOC-tSzaEjGYlC9p-71" value="&lt;font color=&quot;#ff9214&quot;&gt;(key)&amp;nbsp;&lt;/font&gt;id-produk&lt;br&gt;+ nama-produk&lt;br&gt;+ alamat-harga" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="EvYMBOC-tSzaEjGYlC9p-70">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EvYMBOC-tSzaEjGYlC9p-72" value="Jasa" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="160" height="120" as="geometry">
+            <mxRectangle x="265" y="700" width="80" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EvYMBOC-tSzaEjGYlC9p-73" value="&lt;font color=&quot;#ff9214&quot;&gt;(key)&amp;nbsp;&lt;/font&gt;id-produk&lt;br&gt;+ nama-produk&lt;br&gt;+ alamat-harga" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="EvYMBOC-tSzaEjGYlC9p-72">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
