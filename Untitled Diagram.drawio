@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T10:06:05.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TuEBZoO_8ZJBT4RPoXLi" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T10:07:30.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="heeh6FU4kNmvlEj8ZXuv" version="21.0.6" type="github">
   <diagram name="Page-1" id="Ky6xbdd2wmTj1Mj3_75G">
-    <mxGraphModel dx="1588" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,12 +37,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z4PcFgmPRDwHXmjGW__j-29" value="memiliki" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="320" y="200" width="60" height="50" as="geometry" />
+          <mxGeometry x="315" y="200" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z4PcFgmPRDwHXmjGW__j-31" value="Produk" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z4PcFgmPRDwHXmjGW__j-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=ERmany;startFill=0;" parent="1" edge="1">
+        <mxCell id="z4PcFgmPRDwHXmjGW__j-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=ERmany;startFill=0;" parent="1" edge="1" target="z4PcFgmPRDwHXmjGW__j-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349.74" y="280" as="sourcePoint" />
             <mxPoint x="349.74" y="250" as="targetPoint" />
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="EvYMBOC-tSzaEjGYlC9p-24" value="ISA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EvYMBOC-tSzaEjGYlC9p-26">
           <mxGeometry x="10" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvYMBOC-tSzaEjGYlC9p-36" value="dapat di" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
