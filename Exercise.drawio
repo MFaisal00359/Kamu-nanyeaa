@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T20:41:58.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5s54V6fVdHnvt9ckOsgM" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-11T20:42:26.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Kdcn9zJ1z20oH1NXVypt" version="21.2.9" type="github" pages="3">
   <diagram name="Page-1" id="1oiaDt3H0KKwF-mHLnCx">
     <mxGraphModel dx="485" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n7pnHdwHVBtXAXUBPU6F" name="Page-3">
-    <mxGraphModel dx="763" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
         <mxCell id="mTTNNpeCXDsWvA0coKda-2" value="Dashboard Admin (SSO)&lt;br&gt;2.1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LZVj1UxgxQkAwGxaz0rn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZVj1UxgxQkAwGxaz0rn-3">
+        <mxCell id="LZVj1UxgxQkAwGxaz0rn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZVj1UxgxQkAwGxaz0rn-3" target="LZVj1UxgxQkAwGxaz0rn-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="690" as="targetPoint" />
           </mxGeometry>
@@ -294,11 +294,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LZVj1UxgxQkAwGxaz0rn-3" value="Create Artikel&lt;br&gt;2.2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-CQOkC5l_DYZSXDtdh40-2" value="Artikel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZVj1UxgxQkAwGxaz0rn-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="409.9949999999999" y="790" as="targetPoint" />
+            <mxPoint x="409.9949999999999" y="770" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="760" />
               <mxPoint x="410" y="760" />
@@ -306,7 +306,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LZVj1UxgxQkAwGxaz0rn-9" value="Database Daftar Berita" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="343.33" y="700" width="133.33" height="40" as="geometry" />
+          <mxGeometry x="343.34" y="660" width="133.33" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
