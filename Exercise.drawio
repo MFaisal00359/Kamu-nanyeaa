@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T19:35:36.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XnWGr3TiZqMdDopWTApq" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T19:35:55.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jXmsEbBE3eJrxVnz-ift" version="21.2.9" type="github">
   <diagram name="Page-1" id="1oiaDt3H0KKwF-mHLnCx">
     <mxGraphModel dx="1730" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-2" value="Login Admin&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="1100" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-3" target="z74QhZf8s3IqPG6Pdmno-11">
           <mxGeometry relative="1" as="geometry" />
@@ -25,12 +25,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-3" value="Akses Admin&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="1350" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="z74QhZf8s3IqPG6Pdmno-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="400" as="sourcePoint" />
-            <mxPoint x="1240" y="400" as="targetPoint" />
+            <mxPoint x="970" y="350" as="sourcePoint" />
+            <mxPoint x="1090" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-8" value="Input Admin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z74QhZf8s3IqPG6Pdmno-6">
@@ -47,10 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-11" value="Logout&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="1350" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-15" value="Halaman Berita&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="500" width="120" height="80" as="geometry" />
+          <mxGeometry x="1350" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
