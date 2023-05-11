@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T23:29:14.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="4BlQhZn23cZOy-8BjJIh" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-11T23:36:41.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="myFEHt6mybnSIkbB88RO" version="21.2.9" type="github" pages="7">
   <diagram name="Page-1" id="1oiaDt3H0KKwF-mHLnCx">
-    <mxGraphModel dx="485" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="485" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
         <mxCell id="z74QhZf8s3IqPG6Pdmno-34" value="Database Komentar" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1530" y="340" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z74QhZf8s3IqPG6Pdmno-35" value="Hapus Komentar&lt;br style=&quot;font-size: 14px;&quot;&gt;7" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="z74QhZf8s3IqPG6Pdmno-35" value="Hasil Report/Laporan komentar&lt;br&gt;7" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1520" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.315;exitY=0.948;exitDx=0;exitDy=0;entryX=0.913;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontSize=14;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-35" target="z74QhZf8s3IqPG6Pdmno-18">
@@ -120,9 +120,9 @@
             <mxPoint x="1470" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z74QhZf8s3IqPG6Pdmno-44" value="Admin Berhasil Hapus Komentar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="z74QhZf8s3IqPG6Pdmno-39">
+        <mxCell id="z74QhZf8s3IqPG6Pdmno-44" value="Admin menhapus Komentar user&lt;br&gt;biasa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="z74QhZf8s3IqPG6Pdmno-39">
           <mxGeometry x="-0.2047" relative="1" as="geometry">
-            <mxPoint y="12" as="offset" />
+            <mxPoint x="13" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.252;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.988;exitY=0.635;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-3" target="z74QhZf8s3IqPG6Pdmno-35">
@@ -759,10 +759,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JkOxCWk07lkAueFV6MK8" name="Page-7">
-    <mxGraphModel dx="1335" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g4HzvjcH0LOffz-c-Z-9-1" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
