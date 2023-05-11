@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T19:35:55.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jXmsEbBE3eJrxVnz-ift" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T19:39:20.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zThfseVRE267sjnD9bQF" version="21.2.9" type="github">
   <diagram name="Page-1" id="1oiaDt3H0KKwF-mHLnCx">
-    <mxGraphModel dx="1730" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,9 +19,6 @@
           <mxGeometry x="1100" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-3" target="z74QhZf8s3IqPG6Pdmno-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z74QhZf8s3IqPG6Pdmno-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-3" target="z74QhZf8s3IqPG6Pdmno-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-3" value="Akses Admin&lt;br&gt;2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -50,7 +47,24 @@
           <mxGeometry x="1350" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z74QhZf8s3IqPG6Pdmno-15" value="Halaman Berita&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="450" width="120" height="80" as="geometry" />
+          <mxGeometry x="1100" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z74QhZf8s3IqPG6Pdmno-18" value="Komentar&lt;br&gt;4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z74QhZf8s3IqPG6Pdmno-19" value="Login Komentar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z74QhZf8s3IqPG6Pdmno-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.877;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-3" target="z74QhZf8s3IqPG6Pdmno-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="420" as="sourcePoint" />
+            <mxPoint x="1210" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z74QhZf8s3IqPG6Pdmno-21" value="Konten Artikel Berita" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z74QhZf8s3IqPG6Pdmno-20">
+          <mxGeometry x="-0.0475" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
