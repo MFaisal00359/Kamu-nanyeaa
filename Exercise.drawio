@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T20:14:39.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NYytq_2xZ-5iHj7oiKqa" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-11T20:15:09.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uftnpLIYHzJHtvjHgYdc" version="21.2.9" type="github" pages="2">
   <diagram name="Page-1" id="1oiaDt3H0KKwF-mHLnCx">
     <mxGraphModel dx="1820" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FtmfNy0enjwha1gQIeIN" name="Page-2">
-    <mxGraphModel dx="1113" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="534" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,6 +184,16 @@
         </mxCell>
         <mxCell id="K-nXlafJUVJb1WD4vX4p-10" value="Tidak cocok dengan data&lt;br&gt;di database admin" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K-nXlafJUVJb1WD4vX4p-9">
           <mxGeometry x="-0.4028" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-nXlafJUVJb1WD4vX4p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-nXlafJUVJb1WD4vX4p-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-nXlafJUVJb1WD4vX4p-26" value="Berhasil Login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K-nXlafJUVJb1WD4vX4p-24">
+          <mxGeometry x="-0.1398" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
