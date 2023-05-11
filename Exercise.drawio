@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T20:19:28.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3hN7dNH04AfTxbd6-Goa" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-11T20:19:45.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EUJUWVNZh0200KnYswNm" version="21.2.9" type="github" pages="2">
   <diagram name="Page-1" id="1oiaDt3H0KKwF-mHLnCx">
     <mxGraphModel dx="721" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FtmfNy0enjwha1gQIeIN" name="Page-2">
-    <mxGraphModel dx="921" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="534" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,9 +222,9 @@
         <mxCell id="K-nXlafJUVJb1WD4vX4p-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K-nXlafJUVJb1WD4vX4p-20" target="K-nXlafJUVJb1WD4vX4p-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k4PIidIcJqpQVYBa_k7O-5" value="Berhasil validasii" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K-nXlafJUVJb1WD4vX4p-23">
+        <mxCell id="k4PIidIcJqpQVYBa_k7O-5" value="Berhasil Registrasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K-nXlafJUVJb1WD4vX4p-23">
           <mxGeometry x="-0.3565" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="k4PIidIcJqpQVYBa_k7O-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-nXlafJUVJb1WD4vX4p-20" target="K-nXlafJUVJb1WD4vX4p-30">
