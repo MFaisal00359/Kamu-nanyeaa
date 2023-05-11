@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T20:42:35.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UN3xPxyyY_Fokqn_ewxW" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-11T20:45:01.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oxkKlTDS4hTCtZRujpQv" version="21.2.9" type="github" pages="3">
   <diagram name="Page-1" id="1oiaDt3H0KKwF-mHLnCx">
     <mxGraphModel dx="485" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n7pnHdwHVBtXAXUBPU6F" name="Page-3">
-    <mxGraphModel dx="1113" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,7 +288,7 @@
             <mxPoint x="410" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LZVj1UxgxQkAwGxaz0rn-8" value="Artikel Berhasil di publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LZVj1UxgxQkAwGxaz0rn-6">
+        <mxCell id="LZVj1UxgxQkAwGxaz0rn-8" value="Membuat Berita" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LZVj1UxgxQkAwGxaz0rn-6">
           <mxGeometry x="-0.1444" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -306,7 +306,47 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LZVj1UxgxQkAwGxaz0rn-9" value="Database Daftar Berita" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="343.34" y="660" width="133.33" height="40" as="geometry" />
+          <mxGeometry x="343.33" y="660" width="133.33" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-CQOkC5l_DYZSXDtdh40-5" value="Edit Artikel&lt;br&gt;2.3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-CQOkC5l_DYZSXDtdh40-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="mTTNNpeCXDsWvA0coKda-2" target="-CQOkC5l_DYZSXDtdh40-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="620" as="sourcePoint" />
+            <mxPoint x="730" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CQOkC5l_DYZSXDtdh40-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-CQOkC5l_DYZSXDtdh40-5" target="LZVj1UxgxQkAwGxaz0rn-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="620" as="sourcePoint" />
+            <mxPoint x="510" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CQOkC5l_DYZSXDtdh40-8" value="Update Artikel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-CQOkC5l_DYZSXDtdh40-7">
+          <mxGeometry x="-0.3073" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CQOkC5l_DYZSXDtdh40-9" value="Tambah Kategori&lt;br&gt;2.4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-CQOkC5l_DYZSXDtdh40-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mTTNNpeCXDsWvA0coKda-2" target="-CQOkC5l_DYZSXDtdh40-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="463" y="458" as="sourcePoint" />
+            <mxPoint x="547" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CQOkC5l_DYZSXDtdh40-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.614;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-CQOkC5l_DYZSXDtdh40-9" target="LZVj1UxgxQkAwGxaz0rn-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="620" as="sourcePoint" />
+            <mxPoint x="400" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-CQOkC5l_DYZSXDtdh40-12" value="Update Artikel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-CQOkC5l_DYZSXDtdh40-11">
+          <mxGeometry x="-0.1483" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
