@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T23:41:25.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MpH1oSymaurSWVbTP_x0" version="21.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-05-11T23:47:38.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kNzDrlHcIDg1jcmtAhk1" version="21.2.9" type="github" pages="7">
   <diagram name="Page-1" id="1oiaDt3H0KKwF-mHLnCx">
-    <mxGraphModel dx="721" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-214" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="z74QhZf8s3IqPG6Pdmno-19" value="Login Komentar&lt;br style=&quot;font-size: 14px;&quot;&gt;5" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1270" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z74QhZf8s3IqPG6Pdmno-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.877;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-3" target="z74QhZf8s3IqPG6Pdmno-15">
+        <mxCell id="z74QhZf8s3IqPG6Pdmno-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.548;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;exitX=0.01;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-3" target="z74QhZf8s3IqPG6Pdmno-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240" y="430" as="sourcePoint" />
             <mxPoint x="1130" y="470" as="targetPoint" />
@@ -140,11 +140,22 @@
             <mxPoint x="995" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2jlw466g6hBi1uBXLoTL-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.328;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.369;entryY=0.961;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z74QhZf8s3IqPG6Pdmno-15" target="z74QhZf8s3IqPG6Pdmno-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="420" as="sourcePoint" />
+            <mxPoint x="1370" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2jlw466g6hBi1uBXLoTL-2" value="Laporakan Komentar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="2jlw466g6hBi1uBXLoTL-1">
+          <mxGeometry x="-0.3105" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="FtmfNy0enjwha1gQIeIN" name="Page-2">
-    <mxGraphModel dx="636" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -764,12 +775,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JkOxCWk07lkAueFV6MK8" name="Page-7">
-    <mxGraphModel dx="1335" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g4HzvjcH0LOffz-c-Z-9-1" value="" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="580" y="320" width="30" height="30" as="geometry" />
+        <mxCell id="_3eB7ri0OM-thxMXLY_X-1" value="Hapus Komentar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
