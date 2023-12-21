@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T04:22:44.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8dbtlMMYFRF_RuPt0bTz" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T04:26:21.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pObORaC2Ysrj9SF15RGn" version="22.1.11" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2514" dy="1269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,6 +165,37 @@
             <Array as="points">
               <mxPoint x="70" y="820" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PoQftCL3mDEPjElPRBC5-57" value="Sistem" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fixDash=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PoQftCL3mDEPjElPRBC5-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="350" as="sourcePoint" />
+            <mxPoint x="215" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PoQftCL3mDEPjElPRBC5-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.97;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PoQftCL3mDEPjElPRBC5-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.52" y="540" as="sourcePoint" />
+            <mxPoint x="214.52" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PoQftCL3mDEPjElPRBC5-65" value="Database" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fixDash=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PoQftCL3mDEPjElPRBC5-66" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.97;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="344.95000000000005" y="782" as="sourcePoint" />
+            <mxPoint x="345" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PoQftCL3mDEPjElPRBC5-67" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.547;exitY=1.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PoQftCL3mDEPjElPRBC5-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="740" as="sourcePoint" />
+            <mxPoint x="475" y="160" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
